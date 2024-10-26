@@ -30,7 +30,7 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![image](https://github.com/user-attachments/assets/7fd36c1a-655d-4db1-8d1d-87b1daa0ca85)
 
 
 ## Output
