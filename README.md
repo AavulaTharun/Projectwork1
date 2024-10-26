@@ -8,22 +8,26 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Real-Time Energy Monitoring
+-Automated Climate Control
+- Occupancy-Based Controls
+- Predictive Analytics for Energy Optimization
+- Renewable Energy Integration
+- Predictive Maintenance for Appliances
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+Hardware Requirements:
+1.IoT Sensors
+2.Smart Appliances and Devices
+3.Central Control Unit 
+4.Networking Equipment
 
+Software Requirements
+1.Data Collection and IoT Management Software
+2.Data Processing and Storage
+3.Machine Learning
+4.Security and Data Protection
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
