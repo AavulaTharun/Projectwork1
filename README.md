@@ -58,9 +58,12 @@ building energy performance has been investigated using different models to pred
 
 
 ## Articles published / References
-#### 1. Ali, M., & Shaaban, K. (2019). Data-driven approaches for smart building energy efficiency: A review. Renewable and Sustainable Energy Reviews, 102, 39-59.
-#### 2.Allouhi, A., Jamil, A., & Rehman, S. (2018). Smart building energy management systems: A review of data-driven and machine learning approaches. Energy Reports, 4, 358-375.
-#### 3.Asadi, S., Amiri, S. S., & Mottahedi, M. (2014). Energy efficiency in buildings: Data mining techniques and applications. Energy and Buildings, 110, 72-80.
+ 1. Ali, M., & Shaaban, K. (2019). Data-driven approaches for smart building energy efficiency: A review. Renewable and Sustainable Energy Reviews, 102, 39-59.
+
+2.Allouhi, A., Jamil, A., & Rehman, S. (2018). Smart building energy management systems: A review of data-driven and machine learning approaches. Energy Reports, 4, 358-375.
+
+3.Asadi, S., Amiri, S. S., & Mottahedi, M. (2014). Energy efficiency in buildings: Data mining techniques and applications. Energy and Buildings, 110, 72-80.
+
 4.Aste, N., Buzzetti, M., & Leonforte, F. (2021). Smart technologies for energy-efficient building retrofitting: A data-driven approach. Energy Efficiency, 14, 101-117.
 5.Amasyali, K., & El-Gohary, N. M. (2018). A review of data-driven building energy consumption prediction studies. Renewable and Sustainable Energy Reviews, 81, 1192-1205.
 6.Balvedi, B. F., Ghisi, E., & Lamberts, R. (2018). A review of occupant behavior in building energy models. Energy and Buildings, 174, 30-47.
