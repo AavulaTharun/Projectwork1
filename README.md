@@ -57,12 +57,17 @@ Note: These metrics can be customized based on your actual performance evaluatio
 building energy performance has been investigated using different models to predict Heating and Cooling loads• We tried to learn how to tune different parameters in the models and obtained a very good prediction result (>99.5% on both Heating and Cooling loads, compared to the experimental data set)
 
 
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. Ali, M., & Shaaban, K. (2019). Data-driven approaches for smart building energy efficiency: A review. Renewable and Sustainable Energy Reviews, 102, 39-59.
+2.Allouhi, A., Jamil, A., & Rehman, S. (2018). Smart building energy management systems: A review of data-driven and machine learning approaches. Energy Reports, 4, 358-375.
+3.Asadi, S., Amiri, S. S., & Mottahedi, M. (2014). Energy efficiency in buildings: Data mining techniques and applications. Energy and Buildings, 110, 72-80.
+4.Aste, N., Buzzetti, M., & Leonforte, F. (2021). Smart technologies for energy-efficient building retrofitting: A data-driven approach. Energy Efficiency, 14, 101-117.
+5.Amasyali, K., & El-Gohary, N. M. (2018). A review of data-driven building energy consumption prediction studies. Renewable and Sustainable Energy Reviews, 81, 1192-1205.
+6.Balvedi, B. F., Ghisi, E., & Lamberts, R. (2018). A review of occupant behavior in building energy models. Energy and Buildings, 174, 30-47.
+7.Beccali, M., Finocchiaro, P., & Nocke, B. (2020). Smart energy-efficient buildings: A data-driven approach. Journal of Building Engineering, 30, 101-135.
+8.Birt, B. J., Newsham, G. R., & Beausoleil-Morrison, I. (2016). Energy performance of residential buildings: A data-driven approach. Applied Energy, 179, 506-514.
+9.Capozzoli, A., Piscitelli, M. S., & Brandi, S. (2017). Data analytics for occupancy-driven optimization of building energy performance. Energy and Buildings, 142, 245-257.
+10.Cheng, X., Ma, X., & Yan, D. (2020). Data-driven methods for improving building energy efficiency: A review. Building and Environment, 172, 106-135.
 
 
 
