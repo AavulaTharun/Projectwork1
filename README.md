@@ -51,7 +51,10 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+![image](https://github.com/user-attachments/assets/61c95fe6-e081-4336-86e5-e75dbd120089)
+![image](https://github.com/user-attachments/assets/7e126b1d-9b4e-4d7c-ae90-5759facb929c)
+
+
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
