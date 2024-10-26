@@ -18,10 +18,10 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 ## Requirements
 <!--List the requirements of the project as shown below-->
 ## Hardware Requirements:
-# 1.IoT Sensors
-# 2.Smart Appliances and Devices
-# 3.Central Control Unit 
-# 4.Networking Equipment
+### 1.IoT Sensors
+### 2.Smart Appliances and Devices
+### 3.Central Control Unit 
+### 4.Networking Equipment
 
 ## Software Requirements
 # 1.Data Collection and IoT Management Software
