@@ -24,10 +24,9 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 ### 4.Networking Equipment
 
 ## Software Requirements
-# 1.Data Collection and IoT Management Software
-# 2.Data Processing and Storage
-# 3.Machine Learning
-# 4.Security and Data Protection
+### 1.Data Collection and IoT Management Software
+### 2.Data Processing and Storage
+### 4.Security and Data Protection
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
