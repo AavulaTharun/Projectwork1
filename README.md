@@ -1,10 +1,10 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+ Energy efficient data driven model for residential spaces in energy efficient buildings
+
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The project focused on enhancing energy efficiency in residential spaces by leveraging data-driven techniques and smart energy management systems. The aim is to create a sustainable and cost-effective environment that balances energy consumption with comfort in residential settings, especially in buildings designed to be energy-efficient.
 
 ## Features
 <!--List the features of the project as shown below-->
