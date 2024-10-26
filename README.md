@@ -45,7 +45,7 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 ![1](https://github.com/user-attachments/assets/548f6f60-7ef0-44e8-a8d5-7b98a2654602)
 
 
-Detection Accuracy: 96.7%
+Detection Accuracy:  99.9% and 99.6%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
