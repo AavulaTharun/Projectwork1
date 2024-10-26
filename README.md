@@ -54,6 +54,8 @@ Note: These metrics can be customized based on your actual performance evaluatio
 ![image](https://github.com/user-attachments/assets/61c95fe6-e081-4336-86e5-e75dbd120089)
 ![image](https://github.com/user-attachments/assets/7e126b1d-9b4e-4d7c-ae90-5759facb929c)
 
+building energy performance has been investigated using different models to predict Heating and Cooling loads• We tried to learn how to tune different parameters in the models and obtained a very good prediction result (>99.5% on both Heating and Cooling loads, compared to the experimental data set)
+
 
 
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
