@@ -36,12 +36,14 @@ The project focused on enhancing energy efficiency in residential spaces by leve
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Heating load
+![2](https://github.com/user-attachments/assets/a7ba23a5-7b27-496c-9224-85e66799a3c7)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - cooling load
+![1](https://github.com/user-attachments/assets/548f6f60-7ef0-44e8-a8d5-7b98a2654602)
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
